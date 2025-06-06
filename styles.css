@@ -53,6 +53,8 @@ p{
 }
 
 button{
+    cursor: pointer;
+
     background-color: var(--grayLight);
 
     border-radius: 3rem;
